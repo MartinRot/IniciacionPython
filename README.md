@@ -1,13 +1,13 @@
-# Iniciación en Python 🐍
+# Iniciación a la Programación con Python 🐍
 
-Repositorio para las actividades, prácticas y entregas del curso de Iniciación en Python.
+Repositorio para las actividades, prácticas y entregas del curso de Iniciación a la Programación con Python.
 
 ---
 
 ## 📋 Pre-entrega de Proyecto: Sistema de Gestión Básica de Productos
 
 ### 🎯 Contexto y Objetivo
-Como parte del avance en el curso y preparación para el **Trabajo Final Integrador (TFI)**, este proyecto consiste en diseñar un sistema interactivo por consola que permita gestionar la información inicial sobre los productos de la empresa.
+Este proyecto consiste en diseñar un sistema interactivo por consola que permita gestionar la información inicial sobre los productos de la empresa.
 
 ---
 
@@ -70,5 +70,5 @@ iniciacionPython/
 ├── .gitignore               # Configuración de exclusiones para Git
 ├── README.md                # Consignas y documentación del proyecto
 └── preentrega/              # Archivos y desarrollo de la pre-entrega
-    └── Pre-entrega - Esencial - Consignas (3) (1) (1).pdf
+    └── gestor_productos.py
 ```
